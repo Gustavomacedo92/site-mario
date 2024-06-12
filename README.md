@@ -12,4 +12,4 @@
 <h3>Responsivo</h3>
 <br>
 <img src="https://github.com/Gustavomacedo92/site-mario/blob/master/img/responsivo.png?raw=true">
-<img src="https://github.com/Gustavomacedo92/site-mario/blob/master/img/desktop1.png?raw=true">
+<img src="https://github.com/Gustavomacedo92/site-mario/blob/master/img/responsivo1.png?raw=true">
