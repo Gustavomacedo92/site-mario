@@ -7,4 +7,9 @@
 <img src="https://img.shields.io/badge/JAVASCRIPT-239120?&style=for-the-badge&logo=JAVASCRIPT3&logoColor=white">
 
 <img src="https://github.com/Gustavomacedo92/site-mario/blob/master/img/desktop.png?raw=true">
-<img src="">
+<img src="https://github.com/Gustavomacedo92/site-mario/blob/master/img/desktop1.png?raw=true">
+<br>
+<h3>Responsivo</h3>
+<br>
+<img src="https://github.com/Gustavomacedo92/site-mario/blob/master/img/desktop.png?raw=true">
+<img src="https://github.com/Gustavomacedo92/site-mario/blob/master/img/desktop1.png?raw=true">
